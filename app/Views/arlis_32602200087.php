@@ -3,7 +3,7 @@
 <div class="about">
     <div class="about me">
         <h1>About Me</h1>
-        <p>Saya menguasai CorelDraw, Adobe AfterEffects minusnya saya malas, saya lebih suka main game</p>
+        <p>Saya menguasai CorelDraw, Adobe After Effects minusnya saya malas, saya lebih suka main game</p>
     </div>
     <div class="experience">
         <h2>Experience</h2>
@@ -12,7 +12,7 @@
                 <tr>
                     <th rowspan="3">2021</th>
                     <th colspan="2">Nganggur</th>
-                    <th rowspan="3">2021-2022</th>
+                    <th rowspan="3">2023</th>
                     <th colspan="2">Jadi intel</th>
                 </tr>
                 <tr>
@@ -28,7 +28,7 @@
                 <tr>
                     <th rowspan="3">2022</th>
                     <th colspan="2">Kuliah</th>
-                    <th rowspan="3">2022-2024</th>
+                    <th rowspan="3">2024</th>
                     <th colspan="2">Jadi intel lagi</th>
                 </tr>
                 <tr>
