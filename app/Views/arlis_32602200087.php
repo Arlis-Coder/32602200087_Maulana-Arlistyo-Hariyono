@@ -1,4 +1,4 @@
-<?php $this->extend('layout/32602200087_arlis'); ?>
+<?php $this->extend('layouts/32602200087_arlis'); ?>
 <?php $this->section('content'); ?>
 <div class="about">
     <div class="about me">
