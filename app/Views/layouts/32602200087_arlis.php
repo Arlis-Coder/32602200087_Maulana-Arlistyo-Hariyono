@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="<?= base_url('assets/css/layout.css') ?>">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
     <title>Layouting</title>
 </head>
 
 <body>
-    <div class=" navbar">
+    <div class="navbar">
         <div class="navbar-icon">
             <i class="fa-solid fa-circle-user fa-2x1"></i>
         </div>

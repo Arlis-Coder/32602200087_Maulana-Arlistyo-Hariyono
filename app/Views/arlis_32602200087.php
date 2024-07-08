@@ -1,7 +1,7 @@
 <?php $this->extend('layouts/32602200087_arlis'); ?>
 <?php $this->section('content'); ?>
 <div class="about">
-    <div class="about me">
+    <div class="about-me">
         <h1>About Me</h1>
         <p>Saya menguasai CorelDraw, Adobe After Effects minusnya saya malas, saya lebih suka main game</p>
     </div>
