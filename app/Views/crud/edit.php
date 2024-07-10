@@ -21,7 +21,7 @@
             </div>
             <div class="input">
                 <label for="nama">Nama baru</label>
-                <input type="text" name="NewNama" id="nama">
+                <input type="text" name="newNama" id="nama">
             </div>
             <div class="input">
                 <label for="prodi">Prodi</label>
