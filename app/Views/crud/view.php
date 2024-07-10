@@ -35,7 +35,7 @@
                 <td class="action">
                     <a href="crud/hapus/<?= $a['nim']; ?>"><button class="btn-delete"
                             onclick="return confirm('Are you sure to delete nim <?= $a['nim'] ?> ?')">Delete</button></a>
-                    <a href="crud/edit/<?= $a['nim']; ?>"><button class="btn-update">Update</button></a>
+                    <a href="edit/<?= $a['nim']; ?>"><button class="btn-update">Update</button></a>
                 </td>
             </tr>
             <?php }

@@ -16,12 +16,12 @@
                 <tr>
                     <td>Nama</td>
                     <td>:</td>
-                    <td>Maulana Arlistyo Hariyono / TIF B / Praktikum Web Programming</td>
+                    <td>M. Sirajuth Thayyib / TIF B / Praktikum Web Programming</td>
                 </tr>
                 <tr>
                     <td>NIM</td>
                     <td>:</td>
-                    <td>32602200087</td>
+                    <td>32602200092</td>
                 </tr>
             </table>
         </nav>
